@@ -20,4 +20,3 @@ supports 'ubuntu'
 
 source_url 'https://github.com/chef-cookbooks/etcd'
 issues_url 'https://github.com/chef-cookbooks/etcd/issues'
-chef_version '>= 12.1'
